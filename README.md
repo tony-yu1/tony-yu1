@@ -4,7 +4,7 @@
 
 I'm Tony, a 4th-year student at Waterloo. Most recently I worked on **double-entry ledgers & crypto infra** at **BitGo**. Next I'm joining **AWS** on **CloudFront** — low-level **CDN / edge infra**.
 
-I care a lot about the human side of engineering: good teams, lifting people up, work that’s actually fun. Technically, I’m at my best on **new, hard problems** where I can own something end-to-end and still ship quality.
+Beyond the technical challenges, I’m deeply invested in the human side of engineering: focusing on the human-first environment, lifting up my teammates, and making the day-to-day work genuinely enjoyable for everyone. Additionally, I believe my biggest technical edge is my experience, ability, and willingness to take on brand new, difficult tasks while delivering high-quality work. 
 
 **BitGo** — ledger & fintech backend, reliability, on-call tooling, perf in CI  
 **AWS** *(incoming)* — CloudFront, distributed CDN stuff  
