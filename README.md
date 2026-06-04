@@ -7,7 +7,7 @@ I'm Tony, a 4th-year student at Waterloo. Most recently I worked on **double-ent
 Beyond the technical challenges, I’m deeply invested in the human side of engineering: focusing on the human-first environment, lifting up my teammates, and making the day-to-day work genuinely enjoyable for everyone. Additionally, I believe my biggest technical edge is my experience, ability, and willingness to take on brand new, difficult tasks while delivering high-quality work. 
 
 Places & products I've been fortunate to work on:  
-**AWS** *(incoming)* — CloudFront, distributed CDNs  
+**AWS** — CloudFront, distributed CDNs  
 **BitGo** — ledger / fintech backend, reliability, agentic workflows  
 **Method** —  CRMs, backend perf & platform work  
 **Baycrest** — LLM / RAG for healthcare  
