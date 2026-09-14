@@ -5,6 +5,7 @@
 I'm Tony, a 4th-year student at Waterloo. Most recently I worked on:
 - **double-entry ledgers & crypto infra** at **BitGo**
 - **CloudFront and CDNs** at **AWS**
+
 I'm currently based out of San Francisco working at **Fable Security**, a Series A startup! 
 
 Beyond the technical challenges, I’m deeply invested in the human side of engineering: focusing on the human-first environment, lifting up my teammates, and making the day-to-day work genuinely enjoyable for everyone. Additionally, I believe my biggest technical edge is my experience, ability, and willingness to take on brand new, difficult tasks while delivering high-quality work. 
