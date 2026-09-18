@@ -8,7 +8,7 @@ Previously, I worked on:
 - **double-entry ledgers & crypto infra** at **BitGo**
 - **CloudFront and CDNs** at **AWS**
 
-Beyond the technical challenges, I’m deeply invested in the human side of engineering: focusing on the human-first environment, lifting up my teammates, and making the day-to-day work genuinely enjoyable for everyone. Additionally, I believe my biggest technical edge is my experience, ability, and willingness to take on brand new, difficult tasks while delivering high-quality work. 
+Beyond the technical challenges, I enjoy the human side of engineering: focusing on the human-first environment, lifting up my teammates, and making day-to-day work enjoyable for everyone.
 
 Places & products I've been fortunate to work on:  
 **AWS** — CloudFront, distributed CDNs  
